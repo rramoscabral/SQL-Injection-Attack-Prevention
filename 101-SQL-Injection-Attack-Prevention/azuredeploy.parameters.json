@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sqlAdministratorName": {
-      "value": "GEN-UNIQUE"
+      "value": "sadmin"
     },
     "sqlServerPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Pa55w.rd2024"
     },
     "location": {
-      "value": "East US"
+      "value": "North Europe"
     }
   }
 }
