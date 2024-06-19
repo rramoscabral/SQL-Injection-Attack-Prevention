@@ -1,9 +1,9 @@
 # SQL injection attack on a Web Application Scenario 
 
 
-[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/rramoscabral/SQL-Injection-Attack-Prevention/master/101-SQL-Injection-Attack-Prevention/azuredeploy.json)
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FSQL-Injection-Attack-Prevention%2Fmaster%2F101-SQL-Injection-Attack-Prevention%2Fazuredeploy.json)
 
-[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https://raw.githubusercontent.com/rramoscabral/SQL-Injection-Attack-Prevention/master/101-SQL-Injection-Attack-Prevention/azuredeploy.json)
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FSQL-Injection-Attack-Prevention%2Fmaster101-SQL-Injection-Attack-Prevention%2Fazuredeploy.json)
 
 
 
