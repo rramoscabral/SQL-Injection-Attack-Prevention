@@ -4,7 +4,7 @@
   "parameters": {
     "_artifactsLocation": {
       "type": "string",
-      "defaultValue": "https://raw.githubusercontent.com/AvyanConsultingCorp/SQL-Injection-Attack-Prevention/master/101-SQL-Injection-Attack-Prevention/",
+      "defaultValue": "https://github.com/rramoscabral/SQL-Injection-Attack-Prevention/raw/master/101-SQL-Injection-Attack-Prevention/",
       "metadata": {
         "description": "this will be the location for artifacts"
       }
@@ -610,7 +610,7 @@
             "value": "[parameters('sqlServerPassword')]"
           },
           "bacpacuri": {
-            "value": "https://templatebotstorage.blob.core.windows.net/bacpacs/contosoclinic.bacpac"
+            "value": "https://github.com/rramoscabral/SQL-Injection-Attack-Prevention/raw/master/101-SQL-Injection-Attack-Prevention/artifacts/contosoclinic.bacpac"
           },
           "edition": {
             "value": "[variables('databases')[0].edition]"
