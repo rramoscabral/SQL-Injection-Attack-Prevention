@@ -1,11 +1,11 @@
 # SQL injection attack on a Web Application Scenario 
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/rramoscabral/SQL-Injection-Attack-Prevention/master/101-SQL-Injection-Attack-Prevention/azuredeploy.json" target="_blank">
-    <img src="http://azuredeploy.net/deploybutton.png"/> 
-</a>
-<a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/rramoscabral/SQL-Injection-Attack-Prevention/master/101-SQL-Injection-Attack-Prevention/azuredeploy.json" target="_blank">
-    <img src="http://armviz.io/visualizebutton.png"/> 
-</a>
+
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/rramoscabral/SQL-Injection-Attack-Prevention/master/101-SQL-Injection-Attack-Prevention/azuredeploy.json)
+
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https://raw.githubusercontent.com/rramoscabral/SQL-Injection-Attack-Prevention/master/101-SQL-Injection-Attack-Prevention/azuredeploy.json)
+
+
 
 # Table of Contents
 1. [Objectives](#objectives)
