@@ -36,6 +36,7 @@
       "location": {
         "type": "string",
         "allowedValues": [
+          "West US",
           "East US",
           "West Europe",
           "Southeast Asia",
