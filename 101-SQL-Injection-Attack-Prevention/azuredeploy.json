@@ -79,7 +79,7 @@
       "AzureActivity",
       "AzureWebAppsAnalytics",
       "AzureSQLAnalytics",
-      "AzureAppGatewayAnalytics"
+      "AzureMonitorNetworkInsights"
     ],
     "tags": {
       "scenario": "SQL-Injection-Attack-Prevention"
