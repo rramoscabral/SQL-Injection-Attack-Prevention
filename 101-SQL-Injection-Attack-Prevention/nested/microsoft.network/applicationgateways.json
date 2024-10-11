@@ -104,7 +104,7 @@
         "properties": {
           "sku": {
             "name": "[parameters('applicationGatewaySize')]",
-            "tier": "WAF",
+            "tier": "[parameters('applicationGatewaySize')]",
             "capacity": "[parameters('capacity')]"
           },
           "gatewayIPConfigurations": "[parameters('gatewayIPConfigurations')]",
