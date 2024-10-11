@@ -43,7 +43,7 @@
     },
     "pipAddressType": {
       "type": "string",
-      "defaultValue": "dynamic",
+      "defaultValue": "static",
       "allowedValues": [
         "dynamic",
         "static"
