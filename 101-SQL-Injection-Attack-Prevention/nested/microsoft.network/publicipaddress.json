@@ -7,7 +7,7 @@
       },
       "publicIPAddressType": {
         "type": "string",
-        "defaultValue": "Static"
+        "defaultValue": "static"
       },
       "dnsNameForPublicIP": {
         "type": "string"
