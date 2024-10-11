@@ -15,7 +15,7 @@
       "value": "PerNode"
     },
     "pipAddressType": {
-      "value": "dynamic"
+      "value": "static"
     },
     "sqlAdministratorName": {
       "value": "sysdbaadmin"
