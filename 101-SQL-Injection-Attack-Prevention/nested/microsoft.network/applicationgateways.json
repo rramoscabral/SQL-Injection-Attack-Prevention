@@ -5,10 +5,10 @@
       "applicationGatewaySize": {
         "type": "string",
         "allowedValues": [
-          "WAF_Medium",
-          "WAF_Large"
+          "Standard_v2",
+          "WAF_v2"
         ],
-        "defaultValue": "WAF_Medium",
+        "defaultValue": "WAF_v2",
         "metadata": {
           "description": "application gateway size"
         }
