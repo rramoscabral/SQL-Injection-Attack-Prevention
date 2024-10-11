@@ -72,7 +72,7 @@
         },
         "plan": {
           "name": "[concat(parameters('omsSolutionsName')[copyIndex()], '(', parameters('omsWorkspaceName'), ')')]",
-          "product": "[concat('WAFSQLInjectionDemo/', parameters('omsSolutionsName')[copyIndex()])]",
+          "product": "[concat('OMSGallery/', parameters('omsSolutionsName')[copyIndex()])]",
           "promotionCode": "",
           "publisher": "Microsoft"
         },
